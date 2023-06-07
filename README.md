@@ -2,7 +2,7 @@
 ## About me:
 - 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently learning about Javascript and PHP
-- ⚡ Fun fact : waiting to fall in love with code^
+- 💞️ Fun fact : waiting to fall in love with code^
 - 📫 How to reach me : find me on LinkedIn [Devi Nazhifa NH](https://www.linkedin.com/in/devinazhifa/)
 
 <!--
