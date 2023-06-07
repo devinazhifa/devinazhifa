@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Devi Nazhifa!
+# Hi there👋 I'm Devi Nazhifa!
 
 ## About me:
 - 👀 I’m interested in Data Science and Web Development
