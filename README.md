@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Devi Nazhifa!</h!>
+# Hi there 👋 I'm Devi Nazhifa!
 
 ## About me:
 - 👀 I’m interested in Data Science and Web Development
