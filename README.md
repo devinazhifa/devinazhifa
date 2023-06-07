@@ -1,12 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Devi Nazhifa!</h!>
 
-<h3 align="left">About Me:</h3>
-<p align="left">
- - 👀 I’m interested in Data Science and Web Development
+## About me:
+- 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently learning about Javascript and PHP
 - 💞️ Fun fact : waiting to fall in love with code^
 - 📫 How to reach me : find me on LinkedIn [Devi Nazhifa NH](https://www.linkedin.com/in/devinazhifa/)
-</p>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
